@@ -4,7 +4,9 @@
     int a;
     cin>>a;
     int b;
-    cin>>b;
-    cout<<"The sum of the two numbers is: "<<a<<endl;
+  cin>>b;
+    cout<<"The product of two numbers is: "<< a*b<<endl;
+
     return 0;
+
  }
